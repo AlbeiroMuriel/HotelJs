@@ -1,0 +1,33 @@
+*{margin: 0px; padding: 0px; box-sizing: border-box;}
+
+body{
+    background-image: url(../img/fondo.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{text-align: center;
+color: azure;
+font-size: 48px;
+margin: 20px 50px;}
+
+.box{border: 1px solid;
+    width: 500px;
+    height: 400px;
+text-align: center;}
+    
+.container{display: flex;
+    margin: 0px 80px;
+    justify-content: center;    
+    
+}
+.cotizar{
+    text-align: center;
+    line-height: 40px;
+
+}
+img{width: 350px; 
+    height: 250; 
+    border: 1px solid;
+    text-align: center;
+    margin: 20px 50px;
+}
